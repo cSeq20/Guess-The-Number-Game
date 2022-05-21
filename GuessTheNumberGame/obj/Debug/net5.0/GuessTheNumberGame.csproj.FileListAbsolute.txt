@@ -3,9 +3,7 @@ C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumber
 C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\bin\Debug\net5.0\GuessTheNumberGame.runtimeconfig.json
 C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\bin\Debug\net5.0\GuessTheNumberGame.runtimeconfig.dev.json
 C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\bin\Debug\net5.0\GuessTheNumberGame.dll
-C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\bin\Debug\net5.0\ref\GuessTheNumberGame.dll
 C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\bin\Debug\net5.0\GuessTheNumberGame.pdb
-C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\net5.0\GuessTheNumberGame.csprojAssemblyReference.cache
 C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\net5.0\GuessTheNumberGame.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\net5.0\GuessTheNumberGame.AssemblyInfoInputs.cache
 C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\net5.0\GuessTheNumberGame.AssemblyInfo.cs
@@ -14,3 +12,5 @@ C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumber
 C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\net5.0\ref\GuessTheNumberGame.dll
 C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\net5.0\GuessTheNumberGame.pdb
 C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\net5.0\GuessTheNumberGame.genruntimeconfig.cache
+C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\net5.0\GuessTheNumberGame.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Learning\C#\Exercises\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\net5.0\refint\GuessTheNumberGame.dll
